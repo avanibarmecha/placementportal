@@ -1,2 +1,2 @@
 # placementportal
-Project based on searching cars on the basis of their brand and cost value.It list all the features of the cars hence help in comparing different cars.
+A complete placement guide for students,where they are upload their details,can chat with seniors,can read job/internship experiences of seniors ,and can participate in company quizes.Companies also can search /shortlist students from their details and can conduct quiz and can send emails to students.
